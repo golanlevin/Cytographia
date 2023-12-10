@@ -1,5 +1,7 @@
 # Cytographia
-*An algorithmic neoincunabulum of xenocytology*
+
+*An algorithmic neoincunabulum of xenocytology*<br />
+By Golan Levin, 2022-2024
 
 ---
 ### About *Cytographia*
@@ -22,12 +24,12 @@ The *Cytographia* project draws inspiration from several historically significan
 
 The artwork responds to both mouse/touch and keyboard interactions. An index of *Cytographia*'s key commands can be displayed by pressing **h** (for "help"). These key commands provide access to functionality including file export; toggles that enable or disable various graphical options, potentially improving performance on some systems; and access to a playful "sandbox" mode, in which a collector or visitor can assemble the organelles of their own imaginary lifeform.
 
-*Cytographia* was developed using JavaScript version Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) with AppleWebKit/537.36 (KHTML, like Gecko), and was tested in Google Chrome version 119.0.6045.159 (arm64) on a MacBook Pro (14-inch, 2021) with an Apple M1 Pro CPU, running macOS Sonoma 14.1.1 (23B81). Please note that [the precision of the JavaScript Math library is implementation-dependent](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). This means that browsers and/or operating systems other than the recommended configuration may produce different results for the same series of mathematical operations. The *Cytographia* project is particularly susceptible to this, since it constantly simulates millions of interactions between thousands of particles. Over time, these environment-based differences may accumulate to produce visibly different results.
+Please note that [the precision of the JavaScript Math library is implementation-dependent](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). This means that browsers and/or operating systems other than the recommended configuration may produce different results for the same series of mathematical operations. The *Cytographia* project is particularly susceptible to this, since it constantly simulates millions of interactions between thousands of particles. Over time, these environment-based differences may accumulate to produce visibly different results. *Cytographia* was developed using JavaScript version Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) with AppleWebKit/537.36 (KHTML, like Gecko), and was tested in Google Chrome version 119.0.6045.199 (arm64) on a MacBook Pro (14-inch, 2021) with an Apple M1 Pro CPU, running macOS Sonoma 14.1.2 (23B92).
 
 ---
 ### About Golan Levin
 
-Golan Levin is a Pittsburgh-based artist, researcher and educator. His work explores new intersections of machine code, visual culture, and critical making in order to highlight our relationship with machines, expand the vocabulary of human action, and awaken participants to their potential as creative actors.
+Golan Levin (b. 1972) is a Pittsburgh-based artist, researcher and educator. His work explores new intersections of machine code, visual culture, and critical making in order to highlight our relationship with machines, expand the vocabulary of human action, and awaken participants to their potential as creative actors.
 
 Active professionally in software art since 1995, Levin's work is included in the permanent collections of the [Museum of Modern Art](https://www.moma.org/artists/39123), [ZKM Karlsruhe](https://zkm.de/en/artwork/messa-di-voce), and the [Cooper-Hewitt Smithsonian Design Museum](https://collection.cooperhewitt.org/people/51679259/objects/), and has been featured in exhibitions at venues including the [Beall Center for Art and Technology](https://beallcenter.uci.edu/exhibitions/eyecode), [bitforms gallery](https://bitforms.art/exhibition/golan-levin-new-installations-and-sculpture/), the [Whitney Biennial](https://whitney.org/www/2004biennial/flash/poplg.php), Ars Electronica, Art Center Nabi, Espacio Fundación Telefónica, ICA London, La Gaîté Lyrique, and the NTT InterCommunication Center.
 
