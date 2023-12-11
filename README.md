@@ -48,6 +48,6 @@ Active professionally in software art since 1995, Levin's work is included in th
 
 Levin earned degrees in Media Arts and Sciences from the MIT Media Laboratory. He is presently Professor of electronic art in the [School of Art at Carnegie Mellon University](https://art.cmu.edu/people/golan-levin/), where his pedagogy is concerned with reclaiming computation as a medium of personal expression. With Tega Brain, Levin is co-author of [*Code as Creative Medium*](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/), an essential guide to creative coding for software arts educators.
 
-![Golan Levin](images/golan_levin_portrait_2048.jpeg)
+![Golan Levin](images/golan_levin_portrait_2048.jpg)
 
-
+*Photo by Tom Cwenar.*
