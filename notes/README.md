@@ -114,7 +114,7 @@ The difference between my bespoke lines and the readymade lines of p5.js may be 
 
 ![Generative paper](images/generative-paper.png)
 
-A debate is simmering on Twitter about skeumorphism in generative art. The debate is typified by these two (mutually contradictory) comments by Joshua Davis. On the one hand, Davis states that he doesn't prefer generative art that imitates analog media; on the other, he states that he loves to include noise (...an imitation of analog media) in his work because it makes everything better.
+A debate is simmering on Twitter about skeumorphism in generative art. The debate could be summarized by these two somewhat contradictory comments by Joshua Davis. On the one hand, Davis states that he doesn't prefer digital art that imitates analog media; on the other, he states that he loves to include noise (...an imitation of analog media) in his digital art because it "makes everything better".
 
 ![Generative paper](images/davis_1.png)
 
