@@ -70,11 +70,11 @@ In 1997, I conceived a gestural interaction by which a user could simultaneously
 
 ![Polygona Nervosa](images/polygona_nervosa.gif)
 
-In 2001, I organized and curated [Singlecell.org], a monthly online bestiary. Singlecell featured "a collection of online life-forms discovered and reared by a diverse group of computational artists and designers", including Casey Reas, Lia, Joshua Davis, and Marius Watz. My own contribution to the bestiary was [*Obzok*](https://flong.com/archive/projects/obzok/index.html), an interactive virtual creature consisting of a blob scaffolded by a springy mesh.
+In 2001, I organized and curated [Singlecell.org], a monthly online bestiary. Singlecell featured "a collection of online life-forms discovered and reared by a diverse group of computational artists and designers", including Casey Reas, Lia, Joshua Davis, and Marius Watz. My own contribution to the bestiary was [*Obzok*](http://flong.com/archive/projects/obzok/index.html), an interactive virtual creature consisting of a blob scaffolded by a springy mesh.
 
 ![Obzok with debug view](images/obzok-and-debug-view.gif)
 
-In 2002-2003, I developed the ["Messa di Voce"](https://flong.com/archive/projects/messa/index.html) performance in collaboration with Zach Lieberman. One of the scenes, called *Space Chicken*, involved a blobby ["voice sensitive costume"](https://vimeo.com/25037421), performed and worn by Joan La Barbara. The shape of the projected blob was tightly coupled to the performer's body (tracked by a camera), as well as her voice. 
+In 2002-2003, I developed the ["Messa di Voce"](http://flong.com/archive/projects/messa/index.html) performance in collaboration with Zach Lieberman. One of the scenes, called *Space Chicken*, involved a blobby ["voice sensitive costume"](https://vimeo.com/25037421), performed and worn by Joan La Barbara. The shape of the projected blob was tightly coupled to the performer's body (tracked by a camera), as well as her voice. 
 
 ![Messa di Voce](images/messa_space_chicken.gif)
 
