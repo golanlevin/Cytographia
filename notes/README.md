@@ -1,6 +1,6 @@
 # Author's Notes on *Cytographia*
 
-I have kept a loose journal about my development of *Cytographia* in [this Twitter thread](https://twitter.com/golan/status/1472819559791013891). In addition, this page documents a few thoughts I have had about the motivation and implemenation of the project. 
+I have kept a loose journal about my development of *Cytographia* in [this Twitter thread](https://twitter.com/golan/status/1472819559791013891). In addition, this page documents a few thoughts I have had about the motivation and implementation of the project. 
 
 * [Encountering Unknown Species](#encountering-unknown-species)
 * [Visual Properties of Living Systems](#visual-properties-of-living-systems)
