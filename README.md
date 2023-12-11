@@ -3,6 +3,14 @@
 *An algorithmic neoincunabulum of xenocytology*<br />
 By Golan Levin, 2022-2024
 
+![Cytographia](images/cytographia_69e225b_3072px.jpg)
+
+* [About Cytographia](#about-cytographia)
+* [Display Notes](#display-notes)
+* [Acknowledgements](#acknowledgements)
+* [About Golan Levin](#about-golan-levin)
+* [Author's Notes](notes/README.md)
+
 ---
 ### About *Cytographia*
 
@@ -27,6 +35,11 @@ The artwork responds to both mouse/touch and keyboard interactions. An index of 
 Please note that [the precision of the JavaScript Math library is implementation-dependent](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). This means that browsers and/or operating systems other than the recommended configuration may produce different results for the same series of mathematical operations. The *Cytographia* project is particularly susceptible to this, since it constantly simulates millions of interactions between thousands of particles. Over time, these environment-based differences may accumulate to produce visibly different results. *Cytographia* was developed using JavaScript version Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) with AppleWebKit/537.36 (KHTML, like Gecko), and was tested in Google Chrome version 119.0.6045.199 (arm64) on a MacBook Pro (14-inch, 2021) with an Apple M1 Pro CPU, running macOS Sonoma 14.1.2 (23B92).
 
 ---
+### Acknowledgements
+
+*Cytographia* incorporates or adapts the following code under the specified licenses: [*p5.js v.1.0.0*](https://p5js.org/) by The Processing Foundation (GPL); [*Fortune's Voronoi*](https://github.com/d3/d3-delaunay) by Mike Bostock (Observable/Mapbox) (ISC); [*GLSL Blend Modes*](https://github.com/jamieowen/glsl-blend) by Jamie Owen (MIT); [*GLSL Value Noise*](https://www.shadertoy.com/view/lsf3WH) and [*GLSL XOR Noise*](https://www.shadertoy.com/view/XtXXD8) by Inigo Quilez (MIT); [*2D Perlin Noise*](https://github.com/stegu/webgl-noise/blob/master/src/classicnoise2D.glsl) by Stefan Gustavson (MIT); [*ImageJ (Distance Transform)*](https://github.com/imagej/ImageJ/blob/master/ij/process/BinaryInterpolator.java) by NIH (Public Domain); [*ofPolyline*](https://github.com/openframeworks/openFrameworks/tree/master/libs/openFrameworks/graphics) from openFrameworks (MIT); [*GLSL p5jsShaderExamples*](https://github.com/aferriss/p5jsShaderExamples/) by Adam Ferriss (MIT); and [*webgl-lines*](https://mattdesl.github.io/webgl-lines/expanded/gl-line-2d.js) by Matt DesLauriers (MIT). *Cytographia* additionally adapts the following code and/or media, whose authors appear not to have specified a license: [*GLSL LA Font*](https://github.com/hi-ogawa/python-shader-app/tree/master/misc/la_font) by Hi Ogawa; [*Delaunay Triangulation*](https://editor.p5js.org/allison.parrish/sketches/BkhEmKKjW) by Allison Parrish; [*Closest Point of a Polygon*](https://codesandbox.io/s/elated-liskov-3v65c?file=/src/getClosestPointInsidePolygon.ts) by Daniel Neveux; [*Point, Line, Plane*](http://paulbourke.net/geometry/pointlineplane/) by Paul Bourke; [*Flocking/Boids*](https://p5js.org/examples/simulate-flocking.html) by Craig Reynolds, adapted by Daniel Shiffman; and [*Arrighi*](https://en.wikipedia.org/wiki/Ludovico_Vicentino_degli_Arrighi) (1523) by Ludovico Vicentino degli Arrighi. The following writings were also essential references for this work: [*Introduction to p5.js shaders*](https://itp-xstory.github.io/p5js-shaders/#/) (2019) by Casey Conchinha and Louise Lessél; [*Drawing Lines is Hard*](https://mattdesl.svbtle.com/drawing-lines-is-hard) (2015) by Matt DesLauriers; and [*Entering the Blobosphere: A Musing on Blobs*](http://www.lauraonsale.com/blob.html) (2019) by Laura Hyunjhee Kim. Special thanks to Zach Lieberman, Casey Reas, James Paterson, Regina Harsanyi, and Lingdong Huang.
+
+---
 ### About Golan Levin
 
 Golan Levin (b. 1972) is a Pittsburgh-based artist, researcher and educator. His work explores new intersections of machine code, visual culture, and critical making in order to highlight our relationship with machines, expand the vocabulary of human action, and awaken participants to their potential as creative actors.
@@ -35,9 +48,6 @@ Active professionally in software art since 1995, Levin's work is included in th
 
 Levin earned degrees in Media Arts and Sciences from the MIT Media Laboratory. He is presently Professor of electronic art in the [School of Art at Carnegie Mellon University](https://art.cmu.edu/people/golan-levin/), where his pedagogy is concerned with reclaiming computation as a medium of personal expression. With Tega Brain, Levin is co-author of [*Code as Creative Medium*](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/), an essential guide to creative coding for software arts educators.
 
+![Golan Levin](images/golan_levin_portrait_2048.jpeg)
 
----
-### Acknowledgements
-
-*Cytographia* incorporates or adapts the following code under the specified licenses: [*p5.js v.1.0.0*](https://p5js.org/) by The Processing Foundation (GPL); [*Fortune's Voronoi*](https://github.com/d3/d3-delaunay) by Mike Bostock (Observable/Mapbox) (ISC); [*GLSL Blend Modes*](https://github.com/jamieowen/glsl-blend) by Jamie Owen (MIT); [*GLSL Value Noise*](https://www.shadertoy.com/view/lsf3WH) and [*GLSL XOR Noise*](https://www.shadertoy.com/view/XtXXD8) by Inigo Quilez (MIT); [*2D Perlin Noise*](https://github.com/stegu/webgl-noise/blob/master/src/classicnoise2D.glsl) by Stefan Gustavson (MIT); [*ImageJ (Distance Transform)*](https://github.com/imagej/ImageJ/blob/master/ij/process/BinaryInterpolator.java) by NIH (Public Domain); [*ofPolyline*](https://github.com/openframeworks/openFrameworks/tree/master/libs/openFrameworks/graphics) from openFrameworks (MIT); [*GLSL p5jsShaderExamples*](https://github.com/aferriss/p5jsShaderExamples/) by Adam Ferriss (MIT); and [*webgl-lines*](https://mattdesl.github.io/webgl-lines/expanded/gl-line-2d.js) by Matt DesLauriers (MIT). *Cytographia* additionally adapts the following code and/or media, whose authors appear not to have specified a license: [*GLSL LA Font*](https://github.com/hi-ogawa/python-shader-app/tree/master/misc/la_font) by Hi Ogawa; [*Delaunay Triangulation*](https://editor.p5js.org/allison.parrish/sketches/BkhEmKKjW) by Allison Parrish; [*Closest Point of a Polygon*](https://codesandbox.io/s/elated-liskov-3v65c?file=/src/getClosestPointInsidePolygon.ts) by Daniel Neveux; [*Point, Line, Plane*](http://paulbourke.net/geometry/pointlineplane/) by Paul Bourke; [*Flocking/Boids*](https://p5js.org/examples/simulate-flocking.html) by Craig Reynolds, adapted by Daniel Shiffman; and [*Arrighi*](https://en.wikipedia.org/wiki/Ludovico_Vicentino_degli_Arrighi) (1523) by Ludovico Vicentino degli Arrighi. The following writings were also essential references for this work: [*Introduction to p5.js shaders*](https://itp-xstory.github.io/p5js-shaders/#/) (2019) by Casey Conchinha and Louise Lessél; [*Drawing Lines is Hard*](https://mattdesl.svbtle.com/drawing-lines-is-hard) (2015) by Matt DesLauriers; and [*Entering the Blobosphere: A Musing on Blobs*](http://www.lauraonsale.com/blob.html) (2019) by Laura Hyunjhee Kim. Special thanks to Zach Lieberman, Casey Reas, James Paterson, Regina Harsanyi, and Lingdong Huang.
 
