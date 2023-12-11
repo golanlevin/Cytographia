@@ -3,6 +3,7 @@
 I have kept a loose journal about my development of *Cytographia* in [this Twitter thread](https://twitter.com/golan/status/1472819559791013891). In addition, this page documents a few thoughts I have had about the motivation and implemenation of the project. 
 
 * [Encountering Unknown Species](#encountering-unknown-species)
+* [Visual Properties of Living Systems](#visual-properties-of-living-systems)
 * [A Personal History of Generative and Interactive Blob Research](#a-personal-history-of-generative-and-interactive-blob-research)
 * [From-Scratch Making in *Cytographia*](#from-scratch-making-in-cytographia)
 * [The Paper Debate](#the-paper-debate)
@@ -26,6 +27,18 @@ If there are a trillion different species co-existing with us on our planet, the
 1. ["Earth May Be Home to a Trillion Species of Microbes"](https://www.nytimes.com/2016/05/24/science/one-trillion-microbes-on-earth.html), *New York Times*, May 23, 2016.
 2. ["How Many Species are We Losing?"](https://wwf.panda.org/discover/our_focus/biodiversity/biodiversity/), World Wildlife Fund.
 
+---
+
+### Visual Properties of Living Systems
+
+In *The Nature of Order, Book One* (Alexander, 2002), design theorist Christopher Alexander proposes fifteen fundamental visual properties common to all the structures that we perceive to have “life” — the geometric properties of wholeness. Alexander's 15 Properties served as a constant guide for me while developing *Cytographia*. 
+
+![Visual Properties of Living Systems](images/alexander_properties.png)
+
+References: 
+
+* Christopher Alexander, [The Nature of Order, Book 1 - The Phenomenon of Life](https://www.amazon.com/Nature-Order-Phenomenon-Environmental-Structure/dp/0972652914), 2002
+* Øyvind Holmstad, ["The Fifteen Geometric Properties of Wholeness"](https://blog.p2pfoundation.net/the-fifteen-geometric-properties-of-wholeness/2014/03/01), 2014
 
 ---
 
@@ -119,6 +132,10 @@ A debate is simmering on Twitter about skeumorphism in generative art. The debat
 ![Generative paper](images/davis_1.png)
 
 ![Generative paper](images/davis_2.png)
+
+The debate has not escaped the notice of the [ever-witty Dominikus Baur](https://twitter.com/dominikus/status/1552701301108121600):
+
+![Generative paper](images/dominikus_baur_genart2022.jpg)
 
 
 @zachlieberman, [Dec 14, 2022](https://twitter.com/zachlieberman/status/1603027801493446657)
