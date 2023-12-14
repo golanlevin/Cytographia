@@ -176,7 +176,7 @@ The debate has not escaped the notice of the [ever-witty Dominikus Baur](https:/
 
 @golan, [Dec 6, 2023](https://twitter.com/golan/status/1732301124328161436)
 
-> I'm public with my ambivalence regarding its skeuomorphism. But — it's where the piece led me. I reckoned I might as well (try to) make the final word in this 'paper' business.
+> I'm public with my ambivalence regarding its skeuomorphism. But — it's where the piece led me. I reckoned I might as well (try to) make the [final word](http://www.naimark.net/writing/firstword.html) in this 'paper' business.
 
 @wblut, [Dec 6, 2023](https://twitter.com/wblut/status/1732287976711839963)
 
