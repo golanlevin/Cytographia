@@ -13,10 +13,13 @@ By Golan Levin, 2022-2024
 * [About Golan Levin](#about-golan-levin)
 * [Charitable Giving](#charitable-giving)
 
-**Additional Resources:**
+**Additional Resources and Press:**
 
 * [Author's Notes](notes/README.md)
-* [Official ArtBlocks interview](https://artblocks.io/info/spectrum/in-conversation-with-golan-levin-on-cytographia)
+* Jordan Kantor, [*In Conversation with Golan Levin on Cytographia*](https://artblocks.io/info/spectrum/in-conversation-with-golan-levin-on-cytographia), January 2024.
+* Peter Bauman, [*Golan Levin on the Potentiality of Blobs*](https://www.lerandom.art/editorial/golan-levin-on-the-potentiality-of-blobs), January 2024.
+* Art Blocks Official, [*Art of Algorithms with Golan Levin and Regina Harsanyi* (interview)](https://www.youtube.com/watch?v=7RIFl_gJfL0), January 2024. 
+* Aluan Wang, [*On Cytographia*](aluan_wang_on_cytographia_2024.pdf), January 2024.
 
 
 ---
