@@ -16,10 +16,10 @@ By Golan Levin, 2022-2024
 **Additional Resources and Press:**
 
 * [Author's Notes](notes/README.md)
-* Aluan Wang, [*On Cytographia*](aluan_wang_on_cytographia_2024.pdf), January 2024. [[PDF]](press/aluan_wang_on_cytographia_2024.pdf)
+* Aluan Wang, [*On Cytographia*](https://twitter.com/IOivm/status/1745720974350467420), *Twitter*, 12 January 2024. [[PDF]](press/aluan_wang_on_cytographia_2024.pdf)
 * Jordan Kantor, [*In Conversation with Golan Levin on Cytographia*](https://artblocks.io/info/spectrum/in-conversation-with-golan-levin-on-cytographia), *Art Blocks Spectrum,* January 2024. [[PDF]](press/golan_levin_artblocks_spectrum_2024.pdf)
 * Peter Bauman, [*Golan Levin on the Potentiality of Blobs*](https://www.lerandom.art/editorial/golan-levin-on-the-potentiality-of-blobs), *Le Random*, January 2024. [[PDF]](press/golan_levin_lerandom_2024.pdf)
-* Regina Harsanyi, [*Art of Algorithms with Golan Levin and Regina Harsanyi*](https://www.youtube.com/watch?v=7RIFl_gJfL0), *Art Blocks Official YouTube Channel*, January 2024.
+* Regina Harsanyi, [*Art of Algorithms with Golan Levin and Regina Harsanyi*](https://www.youtube.com/watch?v=7RIFl_gJfL0), *Art Blocks YouTube*, January 2024.
 
 
 ---
@@ -39,7 +39,7 @@ The *Cytographia* project draws inspiration from several historically significan
 ---
 ### Display Notes
 
-Signed pen-plots of *Cytographia* tokens will be available for interested collectors through [Artfora.com](https://www.artfora.com/collections/cytographia) through 2024. Plots will be produced on acid-free paper using a vintage HP7475A pen plotter.
+Signed pen-plots of *Cytographia* tokens are available for interested collectors through [Artfora.com](https://www.artfora.com/collections/cytographia) through 2024. Plots are produced on acid-free paper using a vintage HP7475A pen plotter.
 
 *Cytographia* requires a modern browser with WebGL and hardware acceleration enabled. The recommended configuration for *Cytographia* is the Chrome browser on MacOS, in which the artwork is known to produce consistent and replicable results.
 
