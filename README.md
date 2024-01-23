@@ -19,7 +19,8 @@ By Golan Levin, 2022-2024
 * Aluan Wang, [*On Cytographia*](https://twitter.com/IOivm/status/1745720974350467420), *Twitter*, 12 January 2024. [[PDF]](press/aluan_wang_on_cytographia_2024.pdf)
 * Jordan Kantor, [*In Conversation with Golan Levin on Cytographia*](https://artblocks.io/info/spectrum/in-conversation-with-golan-levin-on-cytographia), *Art Blocks Spectrum,* January 2024. [[PDF]](press/golan_levin_artblocks_spectrum_2024.pdf)
 * Peter Bauman, [*Golan Levin on the Potentiality of Blobs*](https://www.lerandom.art/editorial/golan-levin-on-the-potentiality-of-blobs), *Le Random*, January 2024. [[PDF]](press/golan_levin_lerandom_2024.pdf)
-* Regina Harsanyi, [*Art of Algorithms with Golan Levin and Regina Harsanyi*](https://www.youtube.com/watch?v=7RIFl_gJfL0), *Art Blocks YouTube*, January 2024.
+* Regina Harsanyi, [*Art of Algorithms with Golan Levin and Regina Harsanyi (Interview)*](https://www.youtube.com/watch?v=7RIFl_gJfL0), *YouTube*, January 2024.
+* ArtBlocks Promotional Videos [#1](https://www.youtube.com/watch?v=f-_kaz3LfOI) • [#2](https://www.youtube.com/watch?v=gCMPjS4013U) • [#3](https://www.youtube.com/watch?v=lTzLbwe_z50)
 
 
 ---
