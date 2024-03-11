@@ -1,13 +1,13 @@
 # Cytographia
 
-[*Cytographia*](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487) is an interactive, real-time animated, generative artwork by Golan Levin.<br />Edition published on the Ethereum blockchain through ArtBlocks Curated • January, 2024
+[*Cytographia*](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487) is a real-time interactive, dynamically animated, generative artwork by Golan Levin.<br />Editioned on the Ethereum blockchain by Art Blocks Curated • January, 2024
 
 ![Cytographia](images/cytographia_69e225b_3072px.jpg)
 
 **Quick Links:**
 
-* The real-time interactive *Cytographia* project [**can be experienced here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487/tokens/487000217). <br />Press **RETURN** to generate a new form, or press **H** for a list of key commands.
-* The uniquely generated tokens in the Cytographia edition [**can be browsed here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487?section=collection&category=collections&vertical=curated&contract_id=0x99a9b7c1116f9ceeb1652de04d5969cce509b069&project_id=487&sortOrder=Invocation%20low%20to%20high).
+* The live, real-time interactive *Cytographia* project [**can be experienced here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487/tokens/487000217). <br />Please press **RETURN** to generate a new form, or press **H** for a list of key commands.
+* The 418 uniquely generated tokens in the Cytographia edition [**can be browsed here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487?section=collection&category=collections&vertical=curated&contract_id=0x99a9b7c1116f9ceeb1652de04d5969cce509b069&project_id=487&sortOrder=Invocation%20low%20to%20high).
 
 **Contents:**
 
@@ -33,7 +33,7 @@
 
 ### About *Cytographia*
 
-> *The interactive Cytographia project [**can be experienced here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487/tokens/487000217).*<br />*Press* **RETURN** *to generate a new form, or press* **H** *for a list of key commands.*
+> *The live, interactive Cytographia project [**can be experienced here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487/tokens/487000217).*<br />*Please press* **RETURN** *to generate a new form, or press* **H** *for a list of key commands.*
 
 *Cytographia* is an elegy for species we will never know, or will never know again, expressed through generative illustrations from an imaginary book about imaginary organisms. This cytopoietic codex depicts speculative cell structures whose appearances and movements arise emergently and in response to real-time user interactions. *Cytographia* was created using [p5.js](https://p5js.org/) (an open-source programming toolkit for the arts) and may run best in the Chrome browser on OSX.
 
