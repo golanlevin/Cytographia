@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.min.js"></script>
+    <script src="sketch.js"></script>
+
+    <style type="text/css">
+      body {
+        background-color:black;
+        margin: 0;
+        padding: 0;
+      }
+      canvas {
+        padding: 0;
+        margin: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+      }
+    </style>
+
+    <style> 
+      .prevent-select {
+        -webkit-user-select: none; /* Safari */
+        -ms-user-select: none; /* IE 10 and IE 11 */
+        user-select: none; /* Standard syntax */
+      }
+    </style>
+
+    <script>
+      function genTokenData(projectNum) {
+        let data = {};
+        let hash = "0x";
+        for (var i = 0; i < 64; i++){
+          hash += Math.floor(Math.random() * 16).toString(16);
+        }
+        data.hash = hash;
+        data.tokenId = (projectNum * 1000000 + Math.floor(Math.random() * 1000)).toString();
+        return data;
+      }
+      let tokenData = genTokenData(99);
+
+      // tokenData.tokenId=99000030;
+      // tokenData.hash = "0xcfc235ba32db76e52ed975126776b8c8eeda38c470035299591f93309ad3bb8e";
+    </script>
+
+  </head>
+
+  <body class="prevent-select">
+  </body>
+</html>
