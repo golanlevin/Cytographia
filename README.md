@@ -6,7 +6,7 @@
 
 **Quick Links:**
 
-* The live, real-time interactive *Cytographia* project [**can be experienced here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487/tokens/487000217). <br />Please press **RETURN** to generate a new form, or press **H** for a list of key commands.
+* The live, real-time interactive *Cytographia* project [**can be experienced here**](https://www.artblocks.io/marketplace/asset/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487000217?generator=true). <br />Please press **RETURN** to generate a new form, or press **H** for a list of key commands.
 * The 418 uniquely generated tokens in the Cytographia edition [**can be browsed here**](https://www.artblocks.io/curated/collections/cytographia-by-golan-levin?tab=Artworks).
 
 **Contents:**
@@ -33,7 +33,7 @@
 
 ### About *Cytographia*
 
-> *The live, interactive Cytographia project [**can be experienced here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487/tokens/487000217).*<br />*Please press* **RETURN** *to generate a new form, or press* **H** *for a list of key commands.*
+> *The live, interactive Cytographia project [**can be experienced here**](https://www.artblocks.io/marketplace/asset/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487000217?generator=true).*<br />*Please press* **RETURN** *to generate a new form, or press* **H** *for a list of key commands.*
 
 *Cytographia* is an elegy for species we will never know, or will never know again, expressed through generative illustrations from an imaginary book about imaginary organisms. This cytopoietic codex depicts speculative cell structures whose appearances and movements arise emergently and in response to real-time user interactions. *Cytographia* was created using [p5.js](https://p5js.org/) (an open-source programming toolkit for the arts) and may run best in the Chrome browser on OSX.
 
