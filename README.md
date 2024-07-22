@@ -7,7 +7,7 @@
 **Quick Links:**
 
 * The live, real-time interactive *Cytographia* project [**can be experienced here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487/tokens/487000217). <br />Please press **RETURN** to generate a new form, or press **H** for a list of key commands.
-* The 418 uniquely generated tokens in the Cytographia edition [**can be browsed here**](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487?section=collection&category=collections&vertical=curated&contract_id=0x99a9b7c1116f9ceeb1652de04d5969cce509b069&project_id=487&sortOrder=Invocation%20low%20to%20high).
+* The 418 uniquely generated tokens in the Cytographia edition [**can be browsed here**](https://www.artblocks.io/curated/collections/cytographia-by-golan-levin?tab=Artworks).
 
 **Contents:**
 
