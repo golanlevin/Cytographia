@@ -1,13 +1,17 @@
 # Cytographia
 
-[*Cytographia*](https://www.artblocks.io/collections/curated/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487) is a real-time interactive, dynamically animated, generative artwork by Golan Levin.<br />Editioned on the Ethereum blockchain by Art Blocks Curated • January, 2024
+[*Cytographia*](https://www.artblocks.io/collection/cytographia-by-golan-levin) is a real-time interactive, dynamically animated, generative artwork by Golan Levin.<br />Editioned on the Ethereum blockchain by Art Blocks Curated • January, 2024
 
 ![Cytographia](images/cytographia_69e225b_3072px.jpg)
 
 **Quick Links:**
 
-* The live, real-time interactive *Cytographia* project [**can be experienced here**](https://www.artblocks.io/marketplace/asset/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487000217?generator=true). <br />Please press **RETURN** to generate a new form, or press **H** for a list of key commands.
-* The 418 uniquely generated tokens in the Cytographia edition [**can be browsed here**](https://www.artblocks.io/curated/collections/cytographia-by-golan-levin?tab=Artworks).
+* The live, real-time interactive *Cytographia* project [**can be experienced here**](https://www.artblocks.io/collection/cytographia-by-golan-levin). <br />Please press **RETURN** to generate a new form, or press **H** for a list of key commands.
+* The 418 uniquely generated tokens in the Cytographia edition [**can be browsed here**](https://www.artblocks.io/collection/cytographia-by-golan-levin).
+
+<!--
+https://www.artblocks.io/marketplace/asset/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/487000217?generator=true
+-->
 
 **Contents:**
 
@@ -20,7 +24,7 @@
 **Additional Resources and Press:**
 
 * Golan Levin, [*Artist's Notes on Cytographia*](notes/README.md), January 2024.
-* Jordan Kantor, [*In Conversation with Golan Levin on Cytographia*](https://artblocks.io/info/spectrum/in-conversation-with-golan-levin-on-cytographia), *Art Blocks Spectrum,* January 2024. [[PDF]](press/golan_levin_artblocks_spectrum_2024.pdf)
+* Jordan Kantor, [*In Conversation with Golan Levin on Cytographia*](https://www.artblocks.io/articles/in-conversation-with-golan-levin-on-cytographia), *Art Blocks Spectrum,* January 2024. [[PDF]](press/golan_levin_artblocks_spectrum_2024.pdf)
 * Peter Bauman, [*Golan Levin on the Potentiality of Blobs*](https://www.lerandom.art/editorial/golan-levin-on-the-potentiality-of-blobs), *Le Random*, January 2024. [[PDF]](press/golan_levin_lerandom_2024.pdf)
 * Regina Harsanyi, [*Art of Algorithms with Golan Levin and Regina Harsanyi (Interview)*](https://www.youtube.com/watch?v=7RIFl_gJfL0), *YouTube*, January 2024.
 * Aluan Wang, [*On Cytographia*](https://twitter.com/IOivm/status/1745720974350467420), *Twitter*, 12 January 2024. [[PDF]](press/aluan_wang_on_cytographia_2024.pdf)
@@ -71,6 +75,7 @@ Signed pen-plots of *Cytographia* tokens are available for interested collectors
 *Cytographia* incorporates or adapts the following code under the specified licenses: [*p5.js v.1.0.0*](https://p5js.org/) by The Processing Foundation (GPL); [*Fortune's Voronoi*](https://github.com/d3/d3-delaunay) by Mike Bostock (Observable/Mapbox) (ISC); [*GLSL Blend Modes*](https://github.com/jamieowen/glsl-blend) by Jamie Owen (MIT); [*GLSL Value Noise*](https://www.shadertoy.com/view/lsf3WH) and [*GLSL XOR Noise*](https://www.shadertoy.com/view/XtXXD8) by Inigo Quilez (MIT); [*2D Perlin Noise*](https://github.com/stegu/webgl-noise/blob/master/src/classicnoise2D.glsl) by Stefan Gustavson (MIT); [*ImageJ (Distance Transform)*](https://github.com/imagej/ImageJ/blob/master/ij/process/BinaryInterpolator.java) by NIH (Public Domain); [*ofPolyline*](https://github.com/openframeworks/openFrameworks/tree/master/libs/openFrameworks/graphics) from openFrameworks (MIT); [*GLSL p5jsShaderExamples*](https://github.com/aferriss/p5jsShaderExamples/) by Adam Ferriss (MIT); and [*webgl-lines*](https://mattdesl.github.io/webgl-lines/expanded/gl-line-2d.js) by Matt DesLauriers (MIT). *Cytographia* additionally adapts the following code and/or media, whose authors appear not to have specified a license: [*GLSL LA Font*](https://github.com/hi-ogawa/python-shader-app/tree/master/misc/la_font) by Hi Ogawa; [*Delaunay Triangulation*](https://editor.p5js.org/allison.parrish/sketches/BkhEmKKjW) by Allison Parrish; [*Closest Point of a Polygon*](https://codesandbox.io/s/elated-liskov-3v65c?file=/src/getClosestPointInsidePolygon.ts) by Daniel Neveux; [*Point, Line, Plane*](http://paulbourke.net/geometry/pointlineplane/) by Paul Bourke; [*Flocking/Boids*](https://p5js.org/examples/simulate-flocking.html) by Craig Reynolds, adapted by Daniel Shiffman; and [*Arrighi*](https://en.wikipedia.org/wiki/Ludovico_Vicentino_degli_Arrighi) (1523) by Ludovico Vicentino degli Arrighi. The following writings were also essential references for this work: [*Introduction to p5.js shaders*](https://itp-xstory.github.io/p5js-shaders/#/) (2019) by Casey Conchinha and Louise Lessél; [*Drawing Lines is Hard*](https://mattdesl.svbtle.com/drawing-lines-is-hard) (2015) by Matt DesLauriers; [*Entering the Blobosphere: A Musing on Blobs*](http://www.lauraonsale.com/blob.html) (2019) by Laura Hyunjhee Kim; and [*The Nature of Order: The Phenomenon of Life*](https://archive.org/details/natureoforderess0000alex_i7q2/page/142/mode/2up) (2002) by Christopher Alexander. Special thanks to Erick Calderon, Dmitri Cherniak, Chris Coleman, Regina Harsanyi, Lingdong Huang, Zach Lieberman, Casey Reas, and James Paterson.
 
 ---
+
 ### About Golan Levin
 
 Golan Levin (b. 1972) is a Pittsburgh-based artist, researcher and educator. His work explores new intersections of machine code, visual culture, and critical making in order to highlight our relationship with machines, expand the vocabulary of human action, and awaken participants to their potential as creative actors.
@@ -83,6 +88,7 @@ Levin earned degrees in Media Arts and Sciences from the MIT Media Laboratory. H
 
 
 ---
+
 ### Charitable Giving
 
 Through CryptoForCharity’s [Environmental Conservation Cause Fund](https://www.cryptoforcharity.io/cause-funds/environmental-conservation), 20% of Cytographia’s secondary market royalties will be donated via contract to non-profit organizations that support biodiversity preservation and tackle the effects of climate change, including the World Wildlife Fund (WWF), Waterkeeper Alliance, The Life You Can Save, and the Coral Restoration Foundation.
